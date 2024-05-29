@@ -1,2 +1,2 @@
-# understanding-software-dynamics
-Notes &amp; code for "Understanding Software Dynamics" by Richard Sites
+# Understanding Software Dynamics
+Notes & code for "Understanding Software Dynamics" by Richard Sites
